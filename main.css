@@ -30,7 +30,7 @@ header {
     justify-items: center;
     }
     footer {
-    background-color: darkgreen;
+    background-color: black;
     color: white;
     grid-area: footer;
     }
