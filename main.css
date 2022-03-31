@@ -1,0 +1,40 @@
+
+
+
+header {
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    grid-area: header;
+    font-size: larger;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    }
+    
+    main {
+    background-color: darkblue;
+    color: white;
+    grid-area: main;
+    } 
+    nav {
+        background-color: yellow;
+        color: black;
+        grid-area: nav;
+        }
+    aside {
+    background-color: lightgreen;
+    grid-area: aside;
+    font-family: cursive;
+    font-size: larger;
+    justify-items: center;
+    }
+    footer {
+    background-color: darkgreen;
+    color: white;
+    grid-area: footer;
+    }
+    
+   
+
+    
