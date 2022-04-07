@@ -2,7 +2,7 @@
 
 
 header {
-    background-color:#4ABDAC;
+    background-color:#062F4F;
     color: white;
     padding: 20px;
     grid-area: header;
@@ -13,24 +13,24 @@ header {
     }
     
     main {
-    background-color: darkblue;
+    background-color: #062F4F;
     color: white;
     grid-area: main;
     } 
     nav {
-        background-color:#565656;
+        background-color:#062F4F;
         color: black;
         grid-area: nav;
         }
     aside {
-    background-color:#DFDCE3;
+    background-color:#565656;
     grid-area: aside;
     font-family: cursive;
     font-size: large;
     justify-items: center;
     }
     footer {
-    background-color: black;
+    background-color: #062F4F;
     color: white;
     grid-area: footer;
     }
