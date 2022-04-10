@@ -75,6 +75,18 @@ header {
     color: white;
     grid-area: footer;
     }
+
+    .POP{
+        font-weight: bolder;
+        font-size: larger;
+        }
+        
+        form{
+            display: grid;
+            width: 50%;
+            grid-template-columns: 20% 20%;
+            align-items: center;
+        }
     
    
 
