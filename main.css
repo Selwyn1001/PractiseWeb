@@ -68,7 +68,7 @@ header {
     grid-area: aside;
     font-family: cursive;
     font-size: large;
-    justify-items: center;
+    align-items: center;
     }
     footer {
     background-color: #062F4F;
@@ -83,9 +83,13 @@ header {
         
         form{
             display: grid;
-            width: 50%;
+            width: 100%;
             grid-template-columns: 20% 20%;
             align-items: center;
+        }
+
+        .img-me{
+            width: 300px;
         }
     
    
