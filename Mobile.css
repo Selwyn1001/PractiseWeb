@@ -18,12 +18,12 @@
          /* Sets the background to red when the body
 isn't targeted */
 body {
-    background-color: red;
+    background-color:#062F4F;
     }
     /* Sets the background to green when the body
     is targeted */
     body:target {
-    background-color: green;
+    background-color:#062F4F;
     }
     /*
 When the target isn't set, hide the "off"
@@ -43,7 +43,7 @@ button and show the "off" button
 nav {
         
     display: none;
-    background-color: yellow;
+    background-color:#565656;
     position: fixed;
     font-size: larger;
     top: 0;
