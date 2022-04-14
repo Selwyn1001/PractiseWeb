@@ -91,6 +91,16 @@ header {
         .img-me{
             width: 300px;
         }
+    #container{
+        width:900px;
+        margin:0 auto;
+    }
+    .colly, .colly2, .colly3{
+        width:280px;
+        float:left;
+        margin:10px;
+        
+    }
     
    
 
