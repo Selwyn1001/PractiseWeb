@@ -104,6 +104,11 @@ header {
     .img-place{
         width:200px;
     }
+
+    .img-right{
+        width: 200px;
+        float: right;
+    }
     
    
 
